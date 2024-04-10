@@ -66,9 +66,9 @@ Once you have installed Anix CLI and satisfied the dependencies, you can use it 
 For example, to fetch an episode of 'Dororo':
 
 ```bash
-./anix 'dororo' 1
+./anix 'death-note' 1
 ```
 
-Replace `'dororo'` with the name of the anime you want to fetch, and `1` with the episode number.
+Replace `'death-note'` with the name of the anime you want to fetch with use of ``-`` for spaces, and `1` with the episode number.
 
 That's it! You've successfully installed Anix CLI and fetched your anime. Enjoy watching! 🍿📺
