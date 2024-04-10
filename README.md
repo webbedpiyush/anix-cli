@@ -70,5 +70,13 @@ For example, to fetch an episode of 'Dororo':
 ```
 
 Replace `'death-note'` with the name of the anime you want to fetch with use of ``-`` for spaces, and `1` with the episode number.
+Sure! Here's the updated usage guide with the additional instructions:
+
+
+While watching, you can use the following controls:
+
+- Press `p` to pause the playback.
+- Press `f` to advance the video frame by frame.
 
 That's it! You've successfully installed Anix CLI and fetched your anime. Enjoy watching! 🍿📺
+
