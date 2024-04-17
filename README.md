@@ -2,6 +2,10 @@
 
 Anix CLI is a tool for fetching and downloading anime from various sources.
 
+## Demo
+
+https://github.com/webbedpiyush/anix-cli/assets/125976928/a15bcbc2-21ea-446e-b2b8-5be614cf0356
+
 ## Requirements
 
 Before using Anix CLI, ensure you have the following dependencies installed:
